@@ -6,6 +6,6 @@ optipng jpegoptimが前提です。
 
 imagecompression.shをダウンロード
 ```
-$ ./imagecompression.sh 圧縮したい画像があるパス を実行
+$ ./imagecompression.sh 圧縮したい画像があるパス
 ```
-あとは自動でpngとjpegを圧縮してくれます。
+を実行、あとは自動でpngとjpegを圧縮してくれます。
