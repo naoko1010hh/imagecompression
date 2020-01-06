@@ -7,7 +7,7 @@ optipng jpegoptim cwebが前提です。
 ## インストール
 ```
 $ sudo apt-get install optipng jpegoptim webp wget -y
-$ wget 0e0.pw/7k-a -P /usr/bin -O serene-imagecompression
+$ sudo wget 0e0.pw/7k-a -P /usr/bin -O /usr/bin/serene-imagecompression
 ```
 
 ## アンインストール
