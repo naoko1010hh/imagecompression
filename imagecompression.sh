@@ -1,6 +1,5 @@
 #!/bin/bash
 SCRIPT_DIR=$(cd $(dirname $0); pwd)
-cp -rf $1 $1-max-`date`
 ls $1 | while read line
 do
     file $1/$line | awk '{print $2}'
